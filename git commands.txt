@@ -1,0 +1,6 @@
+git status - checks the state of a repo
+git add - stages updates
+git commit - commits updates
+git checkout - switches branch
+git branch - lists existing branches
+git log - shows commit history

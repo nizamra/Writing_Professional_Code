@@ -1,0 +1,11 @@
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\bin\Debug\netcoreapp2.2\console1.deps.json
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\bin\Debug\netcoreapp2.2\console1.runtimeconfig.json
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\bin\Debug\netcoreapp2.2\console1.runtimeconfig.dev.json
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\bin\Debug\netcoreapp2.2\console1.dll
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\bin\Debug\netcoreapp2.2\console1.pdb
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\obj\Debug\netcoreapp2.2\console1.csprojAssemblyReference.cache
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\obj\Debug\netcoreapp2.2\console1.csproj.CoreCompileInputs.cache
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\obj\Debug\netcoreapp2.2\console1.AssemblyInfoInputs.cache
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\obj\Debug\netcoreapp2.2\console1.AssemblyInfo.cs
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\obj\Debug\netcoreapp2.2\console1.dll
+C:\Users\Nizam R.H Aljawabreh\Desktop\cources\Writing Professional Code\console1\obj\Debug\netcoreapp2.2\console1.pdb
